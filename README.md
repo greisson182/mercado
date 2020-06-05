@@ -1,6 +1,5 @@
 # mercado
-
-[ ] 6 Bolinho ana maria gotas de chocolate e cenoura
+[] 6 Bolinho ana maria gotas de chocolate e cenoura
 [ ] Iogurte e leite fermentado pra nois
 [ ] 1 pacote de vina
 [ ] 1 Massa de pastel
