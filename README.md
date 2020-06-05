@@ -1,4 +1,8 @@
 # mercado
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 [] 6 Bolinho ana maria gotas de chocolate e cenoura
 [ ] Iogurte e leite fermentado pra nois
 [ ] 1 pacote de vina
