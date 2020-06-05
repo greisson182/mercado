@@ -30,3 +30,4 @@
 - [ ] 5kg de arroz buriti amarelo
 - [ ] 2kg de trigo anaconda premium
 - [ ] 5kg de açúcar demerara caravela
+- [ ] 1 pacote de fralda Pampers xg verde
